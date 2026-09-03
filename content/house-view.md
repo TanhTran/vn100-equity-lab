@@ -1,6 +1,9 @@
 ---
 kicker: House View — August 2026
 watchKicker: What we are watching
+posKicker: Sector positioning · the regime read
+overweight: Banks — funding-advantaged | Credit compounding near a **16% pace** drives loan volume; high-CASA franchises (VCB, TCB, MBB at ~33–35%) keep funding cheap even as 1–3M money backs up to 6.4–7.1%. ;; Industrials, ports & industrial parks | IIP **+14.4%** and **US$38bn** of registered FDI feed the export–capex loop; credit to industry (+9.9%) and transport-telecom (+14.8%) is the fastest of any sector. ;; Utilities & power | Falling **Brent (US$88)** cuts gas-fired input costs while rising industrial output lifts demand — defensive, VND-earning, no import-FX drag. ;; Consumer staples with pricing power | A sticky **core at 4.89%** rewards firms that can pass price through; domestic VND earners are insulated from the dong.
+underweight: Oil & gas — E&P & services | Brent down from **US$103 to US$88** pressures revenue and margins across upstream and drilling. ;; Aviation & USD-levered balance sheets | Dollar leases, jet fuel and offshore debt leave these most exposed to the balance-of-payments squeeze — the oil relief notwithstanding. ;; Import-dependent discretionary retail | Inputs priced in USD plus the slowest sector credit (**trade +4.0% YTD**) — FX pass-through with thin volume. ;; High-leverage & rate-sensitive | Speculative property and brokers face no room to cut, term funding at **6.4–7.1%**, and a tape pricing the growth but not the funding cost.
 ---
 
 # The FX valve was pulled — but the external squeeze is still widening, and core inflation just called the disinflation's bluff.
@@ -13,7 +16,7 @@ Underneath, the external drain keeps widening. Year-to-date through August, expo
 
 The inflation mix has quietly flipped, and this is the part the headline hides. Headline CPI at **4.55%** looks tame, but it is being held down by Brent falling to **US$88** from US$103 in March. Strip the commodity flatter out and **core inflation re-accelerated to 4.89% in August — now *above* headline** for the first time this cycle. The disinflation is borrowed from oil, not earned. Liquidity, meanwhile, is running two-speed: overnight interbank is flooded at **1.19%** while 1-month money sits at **6.7%** and 3-month at **7.1%** — far above the unchanged **4.50%** policy rate. The SBV is holding rates, drowning the overnight market, and letting the term curve and the trading band carry the FX adjustment.
 
-For markets, the regime is unchanged in character and sharper in degree: the tail risk is external — the dong and the balance of payments — not demand. That favours domestic-earnings compounders with pricing power and light USD funding, and it argues for caution on import-heavy and USD-levered balance sheets, into a tape that is pricing the growth but not yet the funding cost.
+For markets, the regime is unchanged in character and sharper in degree: the tail risk is external — the dong and the balance of payments — not demand. The sector map below follows directly. **Overweight** the domestic, VND-earning and funding-advantaged: banks with deposit franchises, the industrial–port–parks complex that the FDI-and-capex loop runs through, power, and staples with pricing power. **Underweight** the USD-levered and import-exposed — oil & gas into falling Brent, aviation, import-heavy discretionary retail — and the high-leverage, rate-sensitive names a firming term curve punishes. Stay **neutral on residential property**, where the Vingroup-led rally is already in the price. It is a relative call, into a tape pricing the growth but not yet the funding cost.
 
 ## Core above headline
 
